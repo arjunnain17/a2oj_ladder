@@ -13,7 +13,7 @@ int main(){
 			int c=a[i][g];
 			if (c==1){ //leniar serch for 1.
 				oi=i; //store rows and column of 1.
-				og=g;
+				og=g; //this is  a test for ssh connection
 
 				
 			}
